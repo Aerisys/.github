@@ -1,6 +1,7 @@
-# SkylabYnov
+# Skylab
 
-Welcome to the SkylabYnov GitHub organization! We are a team of developers focused on creating innovative solutions in the fields of drone technology, embedded systems, mobile applications, and web development.
+Welcome to the SkylabGitHub organization! We are a team of developers focused on creating innovative solutions in the fields of drone technology, embedded systems, mobile applications, and web development.
+You can visit our website at [skylabs.fr](https://skylabs.fr) for more information about our projects and team.
 
 ## Our Projects
 
@@ -26,7 +27,7 @@ Our official website built using Vue.js, providing information about our project
 
 A C++ library designed for ESP-based embedded systems, facilitating communication and control for our hardware components.
 
-### [skylab-imu-lib](https://github.com/SkylabYnov/skylab-esp-lib)
+### [skylab-imu-lib](https://github.com/SkylabYnov/skylab-imu-lib)
 
 A C++ library designed for ESP-based embedded systems, used for the connection of an imu sensor.
 
@@ -47,3 +48,4 @@ We welcome contributions and collaborations. If you're interested in working wit
 
 For inquiries or more information, please reach out to us through our GitHub profiles or the contact information provided in our repositories.
 
+If you want to send a mail to us, here is our contact email [contact@skylabs.fr](contact@skylabs.fr)
