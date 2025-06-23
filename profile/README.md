@@ -7,31 +7,31 @@ You can visit our website at [aerisys.fr](https://aerisys.fr) for more informati
 
 Here are some of the key repositories maintained by our organization:
 
-### [skylabs-drone](https://github.com/Aerisys/skylab-drone)
+### [drone](https://github.com/Aerisys/drone)
 
 A C-based project that serves as the core firmware for our drone systems.
 
-### [skylabs-controller](https://github.com/Aerisys/skylab-controller)
+### [controller](https://github.com/Aerisys/controller)
 
 This repository contains the C-based controller software that interfaces with our drone hardware.
 
-### [skylabs-mobile](https://github.com/Aerisys/skylab-mobile)
+### [mobile](https://github.com/Aerisys/mobile)
 
 A Dart-based mobile application that allows users to control and monitor our drones in real-time.
 
-### [skylabs-website](https://github.com/Aerisys/skylab-website)
+### [website](https://github.com/Aerisys/website)
 
 Our official website built using Vue.js, providing information about our projects and team.
 
-### [skylabs-esp-lib](https://github.com/Aerisys/skylab-esp-lib)
+### [esp-lib](https://github.com/Aerisys/esp-lib)
 
 A C++ library designed for ESP-based embedded systems, facilitating communication and control for our hardware components.
 
-### [skylabs-imu-lib](https://github.com/Aerisys/skylab-imu-lib)
+### [imu-lib](https://github.com/Aerisys/imu-lib)
 
 A C++ library designed for ESP-based embedded systems, used for the connection of an imu sensor.
 
-### [skylabs-drone-camera](https://github.com/Aerisys/skylab-drone-camera)
+### [drone-camera](https://github.com/Aerisys/drone-camera)
 
 This C-based project handles the integration and processing of camera inputs for our drone systems.
 
